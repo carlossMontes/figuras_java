@@ -5,7 +5,7 @@ public class TestAnagrama {
 	public static void main(String[] args) {
 		Anagrama anagrama = new Anagrama();
 		
-		anagrama.verificaAnagrama("Hola", "aloh");
+		anagrama.verificaAnagrama("oola", "hola");
 
 	}
 
