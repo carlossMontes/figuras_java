@@ -20,7 +20,7 @@ public class Triangulo {
 		// al reves
 		for (int i = 1; i <= cant; i++) {
 			for (int j = 1; j <= i; j++) {
-				System.out.print(espacio + j);
+//				System.out.print(espacio + j);
 				for (int k = cant; k >= j; k--) {
 					System.out.print(caract);
 				}

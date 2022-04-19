@@ -3,7 +3,7 @@ package implementacion;
 public class Cuadrado {
 
 	public static void main(String[] args) {
-		byte cant = 5;
+		byte cant = 9;
 		String caract = "* ";
 		
 		for (int i = 1; i <= cant; i++) {
