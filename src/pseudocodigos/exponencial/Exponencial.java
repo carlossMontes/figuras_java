@@ -1,8 +1,6 @@
 package pseudocodigos.exponencial;
 
 public class Exponencial {
-	
-	String result;
 
 	public void calcula(int num) {
 		int residuo, exp = 0;
